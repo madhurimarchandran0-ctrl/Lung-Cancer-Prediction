@@ -20,6 +20,7 @@ a K-Nearest Neighbors (KNN) machine learning model.
 ## How to Run
 1. Clone this repository
 2. Install dependencies: `pip install streamlit scikit-learn pillow`
-3. Run the app: `streamlit run app.py`<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/4d8537da-ea8b-44da-a302-48bdb3742dcc" />
-<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/39eb4c91-f6c6-40eb-8353-f5e9d6daf160" />
+3. Run the app: `streamlit run app.py`<img width="460" height="637" alt="Screenshot 2026-09-25 225404" src="https://github.com/user-attachments/assets/54f2ad84-360e-4971-a733-48f9cc00fbdc" />
+<img width="1163" height="722" alt="Screenshot 2026-09-25 225336" src="https://github.com/user-attachments/assets/a003adbe-8443-49d0-827d-696179128d73" />
+
 
